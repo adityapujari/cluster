@@ -1,2 +1,2 @@
 # cluster
-Clustering data for insights sing DBSCAN
+Clustering data for insights using DBSCAN
